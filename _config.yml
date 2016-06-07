@@ -6,14 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Baguette studio blog
+title: Сoncepteur Magazine
 email: hello@unebaguette.com
 description: > # this means to ignore newlines until "baseurl:"
-  Baguette team writes about web design, development, project management and other exciting things.
+  Magazine about web design, development, project management and the industry at large.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http:/blog.unebaguette.com" # the base hostname & protocol for your site
-twitter_username: arturi
-github_username:  arturi
 
 # Build settings
 markdown: kramdown
