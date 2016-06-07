@@ -16,3 +16,5 @@ We tried design in the browser technique — instead of coding from a static
 We also made a JavaScript robot that can ask simple questions and talk to you. Learned how to load data from the server with AJAX/jQuery to make apps like weather, currency rates and Reykjavik airport timetable. The homework assignment was to make a single-page website about your five favourite places in Moscow. All in all, it was a total success, we are looking forward to the new upcoming courses.
 
 ![](https://cdn-images-1.medium.com/max/1200/1*7ww4CJRCwNlqKjOKWjbhfQ.jpeg)
+
+*Artur Paikin*
